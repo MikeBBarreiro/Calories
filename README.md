@@ -1,6 +1,6 @@
 #Calories
 ========
-This is a (not finnished) Calories-Calculator!
+This is a (not finnished) Calories-Calculator! This project will do the Following:
 
 - ask for your weight
 - Then ask for your gender
